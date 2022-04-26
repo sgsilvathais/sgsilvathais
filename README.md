@@ -1,13 +1,32 @@
-# Olá, me chamo Thais Siqueira 👋 <img src="https://user-images.githubusercontent.com/66179662/155747199-10c4f20e-33c2-43b8-9d95-30adca428a99.png" align="right" style="margin-top:-20px">
-<br>
-<br>
+
+
+# Olá, me chamo Thais Siqueira 👋 
+Tenho 27 anos e moro em São José dos Campos, atualmente curso engenharia de computação na Universidade Federal de São Paulo (UNIFESP) e estou estagiando na Avanade.
 <br>
 <br>
 
+  ![Snake animation](https://github.com/sgsilvathais/sgsilvathais/blob/output/github-contribution-grid-snake.svg)
 
 
-## Bem-vindx ao meu perfil do GitHub!! 😙
 
+
+                                          Bem-vindx ao meu perfil do GitHub!!
+                                          
+<br>
+
+## Tecnologias e ferramentas
+
+### Estou aprendendo:
+<br/>
+
+<div display: flex>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width= 60px/>        
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width= 60px/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width= 60px/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width= 60px/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width= 60px/>          
+</div>          
+            
 
 ## Contato 📞
 <p>
@@ -27,18 +46,18 @@
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
-<!--
-**sgsilvathais/sgsilvathais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Snake animation](https://github.com/sgsilvathais/sgsilvathais/blob/output/github-contribution-grid-snake.svg)
+<br>
+
+<div>
+<a href="https://github.com/sgsilvathais">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgsilvathais&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sgsilvathais&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+    
+ <br>
+ <br>
+
+
