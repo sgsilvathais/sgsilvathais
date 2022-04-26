@@ -20,11 +20,11 @@ Tenho 27 anos e moro em São José dos Campos, atualmente curso engenharia de co
 <br/>
 
 <div display: flex>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width= 60px/>        
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width= 60px/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width= 60px/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width= 60px/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width= 60px/>          
+     <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width= 60px/></code>        
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width= 60px/></code> 
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width= 60px/></code> 
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width= 60px/></code> 
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width= 60px/></code>          
 </div>          
             
 
