@@ -1,7 +1,7 @@
 
 
 # Olá, me chamo Thais Siqueira 👋 
-Tenho 28 anos e moro em São José dos Campos, atualmente curso engenharia de computação na Universidade Federal de São Paulo (UNIFESP) e estou estagiando na Avanade.
+Tenho 30 anos e moro em São José dos Campos, atualmente curso engenharia de computação na Universidade Vistual do Estado de São Paulo (UNIVESP) e estou trabalhando com Engenheira de Dados na Avanade.
 <br>
 <br>
 
